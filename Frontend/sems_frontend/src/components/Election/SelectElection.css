@@ -1,0 +1,21 @@
+.s {
+  max-width: 400px;
+  margin-left: 20%;
+  align-items: center;
+  margin-bottom: 60px;
+  margin-top: 150px;
+}
+
+.s {
+  flex: 1;
+  padding: 0 16px;
+}
+
+.c {
+  height: 97vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-bottom: 0;
+}
